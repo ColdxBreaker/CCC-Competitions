@@ -1,3 +1,3 @@
 # CCC-Competitions
 
-*Note* Some solutions are still incomplete
+*Note*: Some solutions are still incomplete
